@@ -110,6 +110,7 @@ nav {
 }
 
 /* THUMBNAIL CARD */
+a.thumb-card { text-decoration: none; }
 .thumb-card {
   position: relative;
   flex-shrink: 0;
