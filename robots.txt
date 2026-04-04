@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eber-rodrigues.vercel.app/sitemap.xml
